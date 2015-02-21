@@ -58,6 +58,10 @@ Screenshots
 #### Login page
 ![Image of Theme](http://i.imgur.com/Cb8xq4x.png)
 
+#### Client Page
+![Image of Theme](http://i.imgur.com/SaT2t8u.png)
+
+
 Security Features
 -----------------
 UserFrosting is designed to address the most common security issues with websites that handle sensitive user data:
